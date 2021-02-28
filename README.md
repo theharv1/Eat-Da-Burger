@@ -9,7 +9,7 @@
 * css
 * handlebars
 
-![screenshot](/public/assets/img/screenshot.png)
+![screenshot](./public/assets/img/screenshot.png)
 
 ### made by 
 * shawn
