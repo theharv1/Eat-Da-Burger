@@ -1,0 +1,53 @@
+#main {
+  background-color: rgb(128, 0, 255);
+ }
+ h3 {
+  font-family: 'Roboto', sans-serif;
+ }
+.container {
+  background-color: white;
+}
+.jumbotron {
+  margin-bottom: 0px;
+  background-image: url("../img/burger.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: rgb(20, 15, 15);
+  /* text-shadow: black 0.3em 0.3em 0.3em; */
+}
+#add-a-burger {
+  font-family: 'Roboto', sans-serif;
+  margin-left: 25px;
+}
+#welcome {
+ 
+  margin-left: 80px;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+#siteName {
+  margin-top: -18px;
+  margin-left: 75px;
+  font-size: 100px;
+  font-weight: bold;
+  color: rgb(128, 0, 255);
+  outline-color: rgb(128, 0, 255);
+  outline-width: 10px;
+  font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+#main-lead {
+  margin-bottom: -3px;
+  font-size: 15px;
+  font-family: 'Roboto', sans-serif;
+  padding-right: 125px;
+}
+.burger {
+  width: 100px;
+  height: 100px;
+}
+.lead{
+  color: rgb(255, 255, 255);
+  font-size: large important !important;
+}
